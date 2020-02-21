@@ -7,7 +7,7 @@ import java.util.Comparator;
 
 import org.apache.hadoop.io.Writable;
 
-
+//添加注释
 public class MobileFlow implements Writable{
 	private long upFlow;
 	private long downFlow;
